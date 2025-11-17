@@ -1,11 +1,10 @@
-import { Descricao } from "@/app/types/descricao/Descricao"
+import { Descricao } from "@/types/descricao/Descricao"
 
 type Props = {
     descricao: Descricao
 }
 
-const DescricaoBijuteria = ({ descricao }: Props) => {
-
+const DescricaoSemiJoia = ({ descricao }: Props) => {
     return (
         <div>
             <div>
@@ -25,4 +24,4 @@ const DescricaoBijuteria = ({ descricao }: Props) => {
     )
 }
 
-export default DescricaoBijuteria
+export default DescricaoSemiJoia

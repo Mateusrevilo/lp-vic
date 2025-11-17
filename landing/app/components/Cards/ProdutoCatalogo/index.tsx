@@ -1,4 +1,4 @@
-import { Catalogo } from "@/app/types/catalogo/Catalogo"
+import { Catalogo } from "@/types/catalogo/Catalogo"
 
 type Props = {
     catalogo: Catalogo

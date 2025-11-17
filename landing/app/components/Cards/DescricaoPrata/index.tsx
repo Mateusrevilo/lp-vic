@@ -1,4 +1,4 @@
-import { Descricao } from "@/app/types/descricao/Descricao"
+import { Descricao } from "@/types/descricao/Descricao"
 
 type Props = {
     descricao: Descricao

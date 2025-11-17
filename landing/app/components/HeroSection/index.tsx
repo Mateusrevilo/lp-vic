@@ -1,4 +1,4 @@
-import type { Hero } from "@/app/types/heros/Hero"
+import type { Hero } from "@/types/heros/Hero"
 
 
 type Props = {
