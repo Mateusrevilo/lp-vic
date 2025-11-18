@@ -1,4 +1,5 @@
 export type Descricao = {
+    id?:number
     titulo:string
     texto: string
     texto2: string
