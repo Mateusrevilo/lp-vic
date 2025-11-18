@@ -49,7 +49,6 @@ export default function Home() {
 
   return (
     <div>
-      <h1>Há Uma Nova História. Conheça o Conto de Prata!</h1>
       <HeroSection hero={contentHero} />
       <DescricaoPrata descricao={cardPrata} />
       <DescricaoSemiJoia descricao={cardSemiJoia} />
